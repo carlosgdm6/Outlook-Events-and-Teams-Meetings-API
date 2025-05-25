@@ -1,4 +1,5 @@
-# MicrosoftAPI
+# Microsoft Teams & Outlook Calendar Integration API
+
 
 # Microsoft Teams & Outlook Calendar Integration via Microsoft Graph API
 
