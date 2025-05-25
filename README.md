@@ -58,68 +58,74 @@ Update `appsettings.json` with your credentials:
   }
 }
 ```
-
-
-##3. Validation Logic
+## 3. Validation Logic
 
 The system validates that:
 
-The organizer exists in Azure AD
+- The organizer exists in Azure AD
+- The organizer has active Teams and Exchange Online licenses
+- The application has the required Microsoft Graph permissions
+- All necessary configurations are properly set
 
-The organizer has active Teams and Exchange Online licenses
-
-The application has required Graph permissions
-
-All necessary configurations are properly set
-
-csharp
+```csharp
 /* Meeting organizer's email:
    ------------------------------------ */
-var Organizador = dados.Organizador;
+var organizer = dados.Organizador;
 /* ------------------------------------
- Before setting the organizer's email above, ensure that:
+Before setting the organizer's email above, ensure that:
 
- 1. The user exists in the Azure AD tenant;
- 2. The user has active licenses for Microsoft Teams and Exchange Online;
- 3. The application (ClientId/ClientSecret) has the required permissions;
+1. The user exists in the Azure AD tenant;
+2. The user has active licenses for Microsoft Teams and Exchange Online;
+3. The application (ClientId/ClientSecret) has the required permissions;
 */
-Usage
+```
+
+## Usage
+
 After configuration, you can:
 
-Create Teams meetings programmatically
+- Create Teams meetings programmatically
+- Manage Outlook calendar events
+- Set different users as meeting organizers
+- Handle multiple attendees and complex meeting scenarios
 
-Manage Outlook calendar events
+---
 
-Set different users as meeting organizers
+## Technical Stack
 
-Handle multiple attendees and complex meeting scenarios
+- ASP.NET Core  
+- Microsoft Graph API  
+- Azure Active Directory  
+- OAuth 2.0 Client Credentials Flow  
 
-Technical Stack
-ASP.NET Core
+---
 
-Microsoft Graph API
+## License
 
-Azure Active Directory
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-OAuth 2.0 Client Credentials Flow
+---
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Support
 
-Support
 For issues or questions, please open an issue in the GitHub repository.
 
+---
 
-Key improvements made:
-1. Added license badge
-2. Better organized sections with clearer headings
-3. Improved formatting for code blocks and configuration
-4. Added prerequisites section
-5. Enhanced feature descriptions
-6. Added license and support sections
-7. Improved overall readability and structure
-8. Made the validation logic stand out more clearly
-9. Added proper JSON formatting for the configuration example
+## Key Improvements Made
 
-The README now presents a more professional and complete picture of your project while maintaining all the important technical details.
+1. Added license badge  
+2. Better organized sections with clearer headings  
+3. Improved formatting for code blocks and configuration  
+4. Added prerequisites section  
+5. Enhanced feature descriptions  
+6. Added license and support sections  
+7. Improved overall readability and structure  
+8. Made the validation logic stand out more clearly  
+9. Added proper JSON formatting for the configuration example  
+
+---
+
+This README now presents a more professional and complete picture of your project while maintaining all the important technical details.
+
 
