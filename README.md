@@ -57,7 +57,11 @@ Update `appsettings.json` with your credentials:
     "ClientSecret": "YOUR_TEAMS_SECRET"
   }
 }
-3. Validation Logic
+```
+
+
+##3. Validation Logic
+
 The system validates that:
 
 The organizer exists in Azure AD
