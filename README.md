@@ -97,13 +97,6 @@ After configuration, you can:
 - Microsoft Graph API  
 - Azure Active Directory  
 - OAuth 2.0 Client Credentials Flow  
-
----
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## Support
