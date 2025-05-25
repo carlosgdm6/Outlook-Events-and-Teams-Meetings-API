@@ -1,0 +1,120 @@
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.exe
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.deps.json
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.runtimeconfig.json
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.pdb
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Graph.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Graph.Core.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Std.UriTemplate.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.csproj.AssemblyReference.cache
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.AssemblyInfoInputs.cache
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.AssemblyInfo.cs
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets\msbuild.OutlookAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.OutlookAPI.props
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OutlookAPI.props
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OutlookAPI.props
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\scopedcss\bundle\OutlookAPI.styles.css
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.csproj.Up2Date
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\refint\OutlookAPI.dll
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.pdb
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.genruntimeconfig.cache
+C:\Users\Hugo Costa\source\repos\OutlookAPI\OutlookAPI\obj\Debug\net8.0\ref\OutlookAPI.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.staticwebassets.endpoints.json
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.exe
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.deps.json
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.runtimeconfig.json
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\OutlookAPI.pdb
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Graph.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Graph.Core.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Std.UriTemplate.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.csproj.AssemblyReference.cache
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.AssemblyInfoInputs.cache
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.AssemblyInfo.cs
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\scopedcss\bundle\OutlookAPI.styles.css
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets\msbuild.OutlookAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets\msbuild.OutlookAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.OutlookAPI.props
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OutlookAPI.props
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OutlookAPI.props
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.csproj.Up2Date
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\refint\OutlookAPI.dll
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.pdb
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\OutlookAPI.genruntimeconfig.cache
+C:\Users\Sigmacode\Desktop\OutlookAPI\OutlookAPI\obj\Debug\net8.0\ref\OutlookAPI.dll

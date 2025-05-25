@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0hTLTDLrjFpky/lF4pKQfs1b+c62QpQPWgL0kYXzLzQ=",
+  "Source": "MicrosoftAPI",
+  "BasePath": "_content/MicrosoftAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

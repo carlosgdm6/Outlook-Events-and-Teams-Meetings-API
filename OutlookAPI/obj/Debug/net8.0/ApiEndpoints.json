@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "EventoController",
+    "Method": "ApagarEvento",
+    "RelativePath": "api/Evento/apagar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "MicrosoftAPI.ApagarEventoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventoController",
+    "Method": "CriarEvento",
+    "RelativePath": "api/Evento/criar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "MicrosoftAPI.PedidoEventoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventoController",
+    "Method": "EditarEvento",
+    "RelativePath": "api/Evento/editar",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "MicrosoftAPI.EditarEventoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventoController",
+    "Method": "ObterEventoPorId",
+    "RelativePath": "api/Evento/obter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdEvento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "emailUtilizador",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TeamsAPI.Controllers.ReuniaoController",
+    "Method": "ApagarReuniao",
+    "RelativePath": "api/Reuniao/apagar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "utilizador",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idEvento",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TeamsAPI.Controllers.ReuniaoController",
+    "Method": "EditarReuniao",
+    "RelativePath": "api/Reuniao/editar",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dados",
+        "Type": "MicrosoftAPI.Models.EditarReuniaoModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "utilizador",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TeamsAPI.Controllers.ReuniaoController",
+    "Method": "IniciarReuniao",
+    "RelativePath": "api/Reuniao/iniciar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dados",
+        "Type": "MicrosftAPI.Models.PedidoReuniaoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TeamsAPI.Controllers.ReuniaoController",
+    "Method": "ObterReuniao",
+    "RelativePath": "api/Reuniao/obter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "utilizador",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idEvento",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

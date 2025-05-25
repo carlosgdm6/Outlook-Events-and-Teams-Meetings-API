@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\Desktop\\MicrosoftAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\MicrosoftAPI.csproj|c:\\users\\carlo\\desktop\\microsoftapi\\outlookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\MicrosoftAPI.csproj|solutionrelative:outlookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\MicrosoftAPI.csproj|c:\\users\\carlo\\desktop\\microsoftapi\\outlookapi\\models\\pedidoeventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\MicrosoftAPI.csproj|solutionrelative:outlookapi\\models\\pedidoeventomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\MicrosoftAPI.csproj|c:\\users\\carlo\\desktop\\microsoftapi\\outlookapi\\controllers\\reuniaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\MicrosoftAPI.csproj|solutionrelative:outlookapi\\controllers\\reuniaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\MicrosoftAPI.csproj|c:\\users\\carlo\\desktop\\microsoftapi\\outlookapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\MicrosoftAPI.csproj|solutionrelative:outlookapi\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\MicrosoftAPI\\OutlookAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OutlookAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\MicrosoftAPI\\OutlookAPI\\appsettings.json",
+              "RelativeToolTip": "OutlookAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T17:57:49.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoEventoModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\MicrosoftAPI\\OutlookAPI\\Models\\PedidoEventoModel.cs",
+              "RelativeDocumentMoniker": "OutlookAPI\\Models\\PedidoEventoModel.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\MicrosoftAPI\\OutlookAPI\\Models\\PedidoEventoModel.cs",
+              "RelativeToolTip": "OutlookAPI\\Models\\PedidoEventoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:29:38.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\MicrosoftAPI\\OutlookAPI\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "OutlookAPI\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\MicrosoftAPI\\OutlookAPI\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "OutlookAPI\\Controllers\\EventoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:30:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReuniaoController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Desktop\\MicrosoftAPI\\OutlookAPI\\Controllers\\ReuniaoController.cs",
+              "RelativeDocumentMoniker": "OutlookAPI\\Controllers\\ReuniaoController.cs",
+              "ToolTip": "C:\\Users\\carlo\\Desktop\\MicrosoftAPI\\OutlookAPI\\Controllers\\ReuniaoController.cs",
+              "RelativeToolTip": "OutlookAPI\\Controllers\\ReuniaoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:56:11.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

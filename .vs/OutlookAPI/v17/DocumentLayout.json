@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|c:\\users\\sigmacode\\desktop\\microsoftapi\\outlookapi\\eventdeletemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|solutionrelative:outlookapi\\eventdeletemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|c:\\users\\sigmacode\\desktop\\microsoftapi\\outlookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|solutionrelative:outlookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|c:\\users\\sigmacode\\desktop\\microsoftapi\\outlookapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|solutionrelative:outlookapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|c:\\users\\sigmacode\\desktop\\microsoftapi\\outlookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|solutionrelative:outlookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|c:\\users\\sigmacode\\desktop\\microsoftapi\\outlookapi\\eventeditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D71FF91-C6AF-412D-BA4D-43D050D8D900}|OutlookAPI\\OutlookAPI.csproj|solutionrelative:outlookapi\\eventeditmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OutlookAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\Program.cs",
+              "RelativeToolTip": "OutlookAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:30:00.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventEditModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\EventEditModel.cs",
+              "RelativeDocumentMoniker": "OutlookAPI\\EventEditModel.cs",
+              "ToolTip": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\EventEditModel.cs",
+              "RelativeToolTip": "OutlookAPI\\EventEditModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:11:54.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventDeleteModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\EventDeleteModel.cs",
+              "RelativeDocumentMoniker": "OutlookAPI\\EventDeleteModel.cs",
+              "ToolTip": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\EventDeleteModel.cs",
+              "RelativeToolTip": "OutlookAPI\\EventDeleteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:05:10.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OutlookAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\appsettings.json",
+              "RelativeToolTip": "OutlookAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T08:47:06.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "OutlookAPI\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Sigmacode\\Desktop\\MicrosoftAPI\\OutlookAPI\\Controllers\\EventController.cs",
+              "RelativeToolTip": "OutlookAPI\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:44:08.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

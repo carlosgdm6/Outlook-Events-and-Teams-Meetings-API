@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OutlookAPI.props" />
+</Project>
